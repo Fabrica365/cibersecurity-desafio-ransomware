@@ -1,6 +1,7 @@
 Projeto final Bootcamp Santander.
 
 Pasta com arquivos:
+
 ![image](https://github.com/user-attachments/assets/96ffee6e-f0ad-4fab-a760-204e698e1cbf)
 
 Arquivo legível:
